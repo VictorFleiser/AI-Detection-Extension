@@ -1,0 +1,222 @@
+[
+  {
+    "urlMatch": "https://www.reddit.com/r/philosophie/comments/vz90xf/pour_vous_quel_serait_le_sens_de_la_vie/",
+    "selector": "#t1_ig8v0fl-post-rtjson-content",
+    "contentSnippet": "exister c'est le seul non sens qu'il y ait.",
+    "aiText": "Euh… le sens de la vie, ça me semble une question un peu bête en fait. Enfin, je ne pense pas qu'il y en ait un, honnêtement. On est juste là, point. Une espèce de… hasard cosmique quoi.\n\nJe vois pas trop ce qu'on pourrait y faire. Certains cherchent le bonheur, c'est cool pour eux, mais il me semble un peu naïf de penser que ça a une vraie valeur. Genre, dans 100 ans, tout le monde sera mort, l'univers s'en foutra complètement.\n\nAlors, au final, j'dirais que le mieux c'est peut-être juste de faire avec, de pas trop y penser et… osef, en fait. Ça marche pas toujours, mais bon, ça aide un peu. Enfin, je sais pas… c'est juste mon avis.",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente une alternance entre des phrases plus longues et réfléchies et des phrases courtes et directes, comme une pensée en cours. L'utilisation de connecteurs logiques (\"Honnêtement\", \"Ensuite\", \"Aussi\") structure le discours mais n'enlève pas un certain naturel. Le passage à la troisième personne (\"je dirais\") peut être perçu comme une tentative de distanciation ou une habitude de formulation. La fin abrupte avec \"osef\" contraste avec le ton initial plus posé.\n\n**Prévisibilité du langage :** Le vocabulaire est simple et courant, mais les idées abordées sont philosophiques. Certaines expressions sont classiques (\"sens de la vie\", \"immensité du temps et de l'espace\"), tandis que d'autres sont plus familières (\"osef\"). L'enchaînement des idées est logique, mais pas particulièrement original.\n\n**Présence d’une voix humaine :** Le texte exprime une opinion personnelle claire et nuancée, oscillant entre le nihilisme (\"exister c'est le seul non sens\") et la recherche du bonheur. L'utilisation d'expressions familières et l'auto-dérision (\"Aussi niais que cela puisse paraître\") renforcent l'impression d'une voix authentique, mais cela peut aussi être une stratégie pour rendre le texte plus engageant.",
+      "final_score": {
+        "probability": 0.4,
+        "conclusion": "Le texte présente des caractéristiques d’écriture humaine, notamment la subjectivité, l’alternance de styles et l’expression d’une opinion personnelle. Cependant, l’enchaînement logique des idées et l’utilisation de certains clichés philosophiques ne permettent pas d’écarter complètement l’hypothèse d’une génération automatique."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte est caractérisé par un rythme oral et hésitant, marqué par l'emploi fréquent d'interjections (« Euh… ») et de formules d'atténuation (« en fait », « un peu »). Les phrases sont de longueur variable, alternant entre propositions courtes et développements plus longs, ce qui crée une impression de spontanéité. \n\n**Prévisibilité du langage :** Le vocabulaire est simple et courant, sans recherche particulière. Les idées exprimées sont des réflexions philosophiques classiques, mais présentées de manière très personnelle et informelle. Certaines tournures de phrases sont peu conventionnelles (« il me semble un peu naïf de penser que ça a une vraie valeur ») et sortent des sentiers battus.\n\n**Présence d’une voix humaine :** Le texte est fortement marqué par la subjectivité et l'expression d'opinions personnelles (« Ça marche pas toujours, mais bon, ça aide un peu », « c'est juste mon avis »). Les hésitations, les répétitions et le ton familier contribuent à créer une impression d'authenticité et de sincérité.",
+      "final_score": {
+        "probability": 0.3,
+        "conclusion": "Le texte présente de nombreux éléments indiquant une écriture humaine, notamment son style oral, ses hésitations, son ton personnel et l'expression d'un point de vue subjectif. Bien que les idées abordées soient classiques, leur présentation informelle et nuancée plaide en faveur d'une origine humaine."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://x.com/thibaultbrock/status/1226080474289844224",
+    "selector": "span",
+    "contentSnippet": " film sur le hérisson bleu que je t'avais offert pour ta SEGA quand tu étais petit.",
+    "aiText": "Mamie m'a envoyé un message, ça m'a touché ! La vraie richesse, c'est pas l'argent, mais ces petits moments : un souvenir d'enfance, un message inattendu... Elle m'a dit qu'un film sur Sonic le hérisson l'avait fait penser à moi 😂. \n\nSimple, mais ça réchauffe le cœur, surtout quand on est loin. ❤️",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte se compose de phrases courtes et d'un long paragraphe reprenant une conversation. L'alternance est marquée, le début étant très direct et le reste plus narratif. Le rythme est donc assez haché, puis se fluidifie. \n\n**Prévisibilité du langage :** Les premières phrases sont des constats généraux, tandis que la suite est très spécifique et anecdotique. Le récit de la conversation contient des tournures orales typiques (\"J'peux pas\") et un langage familier. Cette spécificité rend le texte moins prévisible.\n\n**Présence d’une voix humaine :** Le texte dégage une forte subjectivité et une émotion palpable à travers le souvenir évoqué. La référence précise à la grand-mère, au film et à la SEGA ancre le texte dans un vécu personnel et authentique. L'utilisation du langage courant renforce l'impression d'une expression spontanée.",
+      "final_score": {
+        "probability": 0.2,
+        "conclusion": "Le texte présente de forts indices d'une écriture humaine, notamment par la narration d'une anecdote personnelle, l'utilisation d'un langage familier et l'expression d'émotions."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente un mélange de phrases courtes et plus longues, créant un rythme assez naturel. L'utilisation de points de suspension et d'émojis contribue à une impression de spontanéité et de conversation informelle. \n\n*Prévisibilité du langage :** Le vocabulaire est simple et courant. Les idées exprimées (importance des souvenirs, des liens familiaux) sont générales et relativement prévisibles. Cependant, l'anecdote précise concernant le film Sonic apporte une touche d'originalité.\n\n**Présence d’une voix humaine :** Le texte témoigne clairement d'une subjectivité et d'une émotion personnelle. L'expression de la gratitude envers sa grand-mère et la description de ses sentiments sont authentiques et révèlent une voix identifiable.",
+      "final_score": {
+        "probability": 0.3,
+        "conclusion": "Le texte présente plusieurs indices d'une écriture humaine, notamment son ton personnel, l'anecdote spécifique et l'expression de sentiments sincères. Bien que les idées soient simples, leur combinaison et le style informel rendent l'origine humaine plus probable."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://www.reddit.com/r/france/comments/tw35nv/avis_pour_robot_cuiseur/",
+    "selector": "#t1_i3dhskq-post-rtjson-content",
+    "contentSnippet": "Monsieur Cuisine de LIDL",
+    "aiText": "Je crois que tu parles du Monsieur Cuisine de Lidl ? J'avais un peu peur aussi au début, vu qu'ils ont souvent des trucs un peu… bof, mais je me suis lancé en fait. Je l'ai trouvé d'occase, vraiment pas cher, et il était en super état.\n\nJe l'utilise pas mal, pour faire des soupes, des ragoûts, des trucs comme ça. C'est vraiment un gain de temps dingue, surtout quand on bosse. Et il a déjà quelques années, je l'ai depuis un moment et il tourne toujours nickel.\n\nFranchement, pour le prix, je regrette pas du tout. Après, c'est clair que c'est pas un Thermomix, mais ça fait largement le job pour moi !",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte est composé de phrases de longueurs variées, allant de courtes déclarations à des descriptions plus détaillées. Le rythme est globalement fluide et naturel, avec une alternance entre informations factuelles et opinions personnelles. La formulation est conversationnelle, comme si l'auteur parlait à un ami. \n\n**Prévisibilité du langage :** Le vocabulaire est courant et accessible, sans termes particulièrement recherchés. Les expressions sont simples et directes, ce qui rend le texte facile à comprendre. Il utilise des formulations typiques des témoignages et des avis de produits. \n\n**Présence d’une voix humaine :** Le texte exprime une expérience personnelle claire et un avis subjectif sur un produit. L'auteur partage des détails précis (prix d'achat, durée d'utilisation, raisons de l'usage) qui renforcent l'impression d'authenticité. L'évolution de son usage en fonction de ses habitudes alimentaires ajoute une touche personnelle.",
+      "final_score": {
+        "probability": 0.2,
+        "conclusion": "Le texte présente de forts indicateurs d'une écriture humaine, notamment en raison de la présence de détails personnels, d'un ton conversationnel et d'une structure narrative cohérente."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte adopte un style conversationnel et informel, avec des phrases de longueurs variables et un rythme assez rapide. L'utilisation de répétitions, d'expressions familières (\"dingue\", \"bof\", \"nickel\") et d'hésitations (\"euh\", implicites) renforce l'impression de spontanéité. La structure est peu soignée, avec des phrases parfois incomplètes et des transitions abruptes.\n\n**Prévisibilité du langage :** Le vocabulaire est courant et accessible, sans recherche particulière. Les idées exprimées sont typiques d'un avis sur un produit, et suivent une progression logique (peur initiale, essai, satisfaction). L'utilisation de comparaisons (“Thermomix”) est classique dans ce type de témoignage.\n\n**Présence d’une voix humaine :** Le texte transmet une opinion personnelle claire et nuancée, avec des références à un vécu précis (achat d'occasion, utilisation quotidienne, contexte professionnel). La personne exprime ses doutes initiaux, puis son enthousiasme, de manière authentique et relatable.",
+      "final_score": {
+        "probability": 0.2,
+        "conclusion": "Le texte présente de forts indices d'une écriture humaine, notamment par son style conversationnel, ses expressions familières et la mention d'un vécu personnel."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://www.reddit.com/r/france/comments/uquq0g/estce_que_vous_avez_une_d%C3%A9formation/",
+    "selector": "#t3_uquq0g-post-rtjson-content",
+    "contentSnippet": "mais j'ai rencontré plusieurs personnes qui ont tendance",
+    "aiText": "Salut tout le monde !\n\nJ'ai toujours été un peu fasciné par les déformations professionnelles, mais je crois pas en avoir vraiment moi-même. Par contre, je vois souvent des trucs chez les gens autour de moi.\n\nMes amies infirmières, c'est dingue, elles repèrent direct les veines de tout le monde, même quand on est juste en soirée ! Genre, elles scannent les bras de manière réflexe, qu'elles pourraient utiliser pour une perfusion... et j'en passe.\n\nEst-ce que vous avez déjà remarqué des trucs similaires chez des gens que vous connaissez ? Et vous ?",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente une structure simple, avec un mélange de phrases courtes et de phrases plus longues, mais globalement assez régulières. Le rythme est plutôt fluide et conversationnel. La présence de connecteurs logiques est limitée. \n\n**Prévisibilité du langage :** Le vocabulaire est courant et les formulations sont relativement prévisibles. Il n'y a pas de tournures de phrases particulièrement originales ou inhabituelles. Le contenu est anecdotique et pourrait facilement être transposé à d'autres situations.\n\n**Présence d’une voix humaine :** Le texte s'ouvre sur une opinion personnelle (“Pour moi personnellement”), mais l'anecdote qui suit est présentée de manière assez factuelle. Le ton est informel et le style est simple, ce qui suggère une communication directe et sans artifice. L’utilisation du tutoiement renforce cet aspect.",
+      "final_score": {
+        "probability": 0.6,
+        "conclusion": "Le texte présente une forte probabilité d’avoir été écrit par un humain. Bien que le style soit simple et le vocabulaire courant, l’anecdote personnelle et le ton informel suggèrent une communication authentique et spontanée."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente un style conversationnel, avec un usage fréquent d'expressions familières (\"Salut tout le monde\", \"dingue\", \"trucs\", \"et j'en passe\"). Les phrases sont de longueurs variées, alternant entre des phrases courtes et des développements plus longs, ce qui donne une impression de spontanéité. L'ensemble est rythmé et facile à lire.\n\n**Prévisibilité du langage :** Le vocabulaire est simple et courant. Les anecdotes partagées sont typiques de conversations informelles. La structure du texte, avec une introduction, un développement basé sur des exemples personnels, et une question ouverte à la fin, est assez classique et attendue.\n\n**Présence d’une voix humaine :** Le texte exprime une curiosité personnelle (\"J'ai toujours été un peu fasciné...\") et un intérêt pour les expériences des autres. Les exemples concrets (\"Mes amies infirmières...\") et le ton direct (\"c'est dingue\") renforcent l'impression d'une véritable personne qui s'exprime.",
+      "final_score": {
+        "probability": 0.3,
+        "conclusion": "TODOLe texte présente des caractéristiques fortes d'une écriture humaine, notamment par son ton conversationnel, son utilisation d'anecdotes personnelles et son rythme naturel. La simplicité du vocabulaire et la structure classique du texte ne suffisent pas à conclure à une génération automatique."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://www.reddit.com/r/france/comments/iwiq5r/suggestions_de_hobby/",
+    "selector": "#t3_iwiq5r-post-rtjson-content",
+    "contentSnippet": " voulais savoir ce que vous me suggéreriez comme passe-temps à découvrir",
+    "aiText": " Bonjour r/france!\n\nJe me rends compte que je passe trop de temps devant l'écran ou à assembler des Legos seul. C'est sympa au début, mais ça devient du gaspillage de temps. J'aimerais trouver un vrai passe-temps, quelque chose qui ne prenne pas trop de place et ne coûte pas cher.\n\nJ'aimerais aussi arrêter de consommer passivement. Si en plus ça pouvait me rapporter un peu, même symboliquement, ce serait super ! Je suis ouvert à toutes les idées, je ne sais pas vraiment ce qui me plairait… Vous avez des passions ou des activités à me faire découvrir ?\n\nMerci d'avance pour vos suggestions, je suis preneur de tous les conseils ! 🙏",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente un mélange de phrases courtes et plus longues, avec un style globalement informel et conversationnel. On observe quelques répétitions et reformulations, ainsi que des tournures familières (\"les airfrançais\", \"me gonfler\"). Le rythme est assez soutenu, avec une alternance entre questions et explications. \n\n**Prévisibilité du langage :** Le vocabulaire est courant et les idées exprimées sont assez générales. Cependant, l'auteur précise sa situation personnelle (logement, budget, hobbies actuels), ce qui rend le texte moins prévisible et plus ancré dans une réalité spécifique. La demande de suggestions est courante, mais le contexte personnel apporte une touche d'originalité.\n\n**Présence d’une voix humaine :** Le texte est clairement marqué par une subjectivité et une personnalité. L'auteur exprime ses frustrations, ses envies et ses contraintes de manière directe et honnête. L’utilisation d’expressions familières et d’émoticônes contribue à créer une impression de proximité et d’authenticité. La conclusion, avec l’annonce du coucher et la coupure des notifications, renforce cette impression de message personnel.",
+      "final_score": {
+        "probability": 0.3,
+        "conclusion": "Le texte présente de nombreux indices d'une écriture humaine, notamment par son style informel, sa subjectivité et la précision des détails personnels. La structure et le vocabulaire sont simples, mais l'ensemble témoigne d'une réelle intention communicative."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente une alternance entre des phrases courtes et plus élaborées, mais le rythme général est assez fluide et direct. On observe une structure claire en paragraphes, avec une introduction, un développement et une conclusion. L’utilisation de connecteurs logiques est présente mais sans excès.\n\n**Prévisibilité du langage :** Le vocabulaire est courant et accessible. Les expressions utilisées sont souvent attendues dans ce type de demande de conseil (ex: \"passe-temps\", \"consommer passivement\", \"être preneur\"). L’ensemble dégage une certaine simplicité qui peut le rendre moins original.\n\n**Présence d’une voix humaine :** Le texte exprime clairement les besoins et les envies de l’auteur, avec une tonalité sincère et humble. On perçoit une forme d’introspection et de volonté de changement. L’ajout de détails personnels (\"Legos seul\", \"symboliquement\") contribue à renforcer l’impression d’une personne réelle qui s’exprime.",
+      "final_score": {
+        "probability": 0.4,
+        "conclusion": "Le texte combine des éléments typiques d’une communication en ligne (simplicité du langage, demande de conseils) avec des touches personnelles qui suggèrent une expression authentique. Il est difficile de se prononcer avec certitude, mais les indices penchent légèrement en faveur d’une écriture humaine."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://www.reddit.com/r/france/comments/u3lgkb/questce_qui_rend_votre_m%C3%A9tier_indispensable/",
+    "selector": "#t3_u3lgkb-post-rtjson-content",
+    "contentSnippet": " pourrait être intéressant Pour ma part je suis agriculteur",
+    "aiText": "En voyant passer des posts sur le travail, je me demandais ce qui rend chaque métier indispensable.\n\nMoi je suis agriculteur, et si on arrêtait de produire, on serait rapidement en difficulté pour se nourrir. Et la campagne se dégraderait. Ce n'est peut-être pas le métier le plus glamour, mais c'est essentiel.\n\nEt vous, qu'est-ce qui rend votre métier indispensable ? Qu'est-ce qui se passerait si votre profession disparaissait ?",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente une alternance inégale entre phrases courtes et plus longues. On observe une tendance à l'accumulation d'idées et de propositions, ce qui peut créer un rythme légèrement haché. Plusieurs phrases commencent par des expressions comme \"Je me suis dis\", \"Pour ma part\", suggérant une construction orale ou spontanée. \n\n**Prévisibilité du langage :** Le vocabulaire est simple et courant, mais certaines tournures sont inhabituelles (\"adieu les petits fromages\", \"il faudrait y aller avec une machette\"), ce qui rompt avec un langage trop générique. L’utilisation de \"donc\" est fréquente pour lier les idées, créant un enchaînement logique mais parfois un peu lourd. \n\n**Présence d’une voix humaine :** Le texte exprime une opinion personnelle et un attachement au métier de l'auteur. L'emploi de tournures familières et l'accumulation de détails concrets (élevage caprin, pâture, territoire) renforcent cette impression de vécu personnel et de subjectivité.",
+      "final_score": {
+        "probability": 0.4,
+        "conclusion": "Le texte présente un mélange d'éléments typiques d'une écriture humaine (spontanéité, subjectivité, détails concrets) et de caractéristiques pouvant être imitées par une intelligence artificielle (rythme parfois inégal, enchaînement logique des idées). La prévisibilité globale reste modérée."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente un mélange de phrases courtes et plus longues, créant un rythme assez naturel. Les deux premiers paragraphes sont plus descriptifs, tandis que le dernier pose une question directe et ouvre la discussion. L'ensemble ne semble pas trop travaillé, avec une structure simple et directe.\n\n**Prévisibilité du langage :** Le vocabulaire est simple et courant, sans termes particulièrement recherchés. Les idées exprimées sont des réflexions courantes sur l'importance des métiers et l'agriculture. Le texte n'utilise pas de tournures de phrases originales ou inattendues.\n\n**Présence d’une voix humaine :** Le texte exprime une opinion personnelle et un questionnement sincère. Le récit de l'auteur en tant qu'agriculteur ajoute une touche personnelle, mais reste factuel et concis. L’appel à la participation des autres utilisateurs renforce l'impression d'une conversation authentique.",
+      "final_score": {
+        "probability": 0.4,
+        "conclusion": "Le texte montre des signes d’une écriture humaine, notamment par son ton direct, son questionnement personnel et l’exemple concret de l’agriculteur. Cependant, le langage simple et la structure prévisible ne permettent pas d’écarter complètement la possibilité d’une génération automatique."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://www.reddit.com/r/france/comments/uni1lh/que_peuton_faire_si_on_a_identifi%C3%A9_un_vendeur/",
+    "selector": "#t1_i888aq1-post-rtjson-content",
+    "contentSnippet": "Contacter la police/gendarmerie du coin ",
+    "aiText": "Punaise, c'est vraiment chiant pour ton ami, ces vols de colis ça arrive trop souvent…\n\nPour essayer d'aider un peu, je pense qu'il faudrait vraiment envoyer tout ça à la police ou gendarmerie, genre :\n\n - Les preuves d'achat (facture, capture écran de la commande)\n - Les preuves que le colis a disparu (le suivi GLS, les dates…)\n - Le lien vers l'annonce eBay et le profil du vendeur, avec tout ce qu'il a vendu d'autre.\n\nÇa peut vraiment les aider à identifier le mec et, même si récupérer le Steam Deck est pas gagné, au moins qu'il se ferra. C'est déjà ça, non ?\n\nEn espérant qu'ils trouvent le receleur. C'est tellement frustrant de voir que les voleurs s'en sortent comme ça.",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente une alternance de phrases de longueurs variables, mais préfére les phrases courtes et directes. Le rythme est assez rapide et pragmatique. On observe quelques répétitions (\"police/gendarmerie\", \"peut être\").\n\n**Prévisibilité du langage :** Le vocabulaire est simple et fonctionnel, utilisant des expressions courantes et des formulations attendues dans un contexte de signalement (\"preuves de l'achat\", \"profil du vendeur\"). L'emploi de termes comme \"chopper\" dénote un registre de langue familier.\n\n**Présence d’une voix humaine :** Le texte contient des expressions typiques du langage parlé (\"du coin\", \"au moins\"), et traduit une certaine impatience ou frustration (\"pour attraper les livreurs\", \"se ferra\"). La structure du texte, avec des listes à puces et des incises, suggère une communication rapide et informative, comme une réponse à une question précise.",
+      "final_score": {
+        "probability": 0.4,
+        "conclusion": "Le texte présente des caractéristiques typiques d’une écriture humaine, notamment par son ton direct, son vocabulaire simple et l'utilisation de tournures familières. Cependant, la structure relativement simple et la prévisibilité du contenu ne permettent pas d'écarter complètement la possibilité d'une génération automatique."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente un rythme conversationnel, avec des phrases de longueurs variées et des interjections (« Punaise », « C’est déjà ça, non ? »). L’utilisation de points de suspension et d'expressions familières contribue à un ton spontané et informel.\n\n**Prévisibilité du langage :** Le vocabulaire est courant et accessible. Les conseils donnés sont logiques et attendus dans ce type de situation. Le texte n’utilise pas de figures de style ou de tournures de phrases particulièrement originales.\n\n**Présence d’une voix humaine :** Le texte exprime clairement de l’empathie et de la frustration face à la situation du destinataire. L'utilisation de termes familiers, d'onomatopées et de questions rhétoriques donne l'impression d'une véritable personne exprimant son opinion et sa compassion.",
+      "final_score": {
+        "probability": 0.2,
+        "conclusion": "Le texte présente de forts indices d’une écriture humaine, notamment par son ton empathique, son rythme conversationnel et l’utilisation d’un langage familier. La combinaison de ces éléments suggère une expression personnelle authentique."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://www.reddit.com/r/france/comments/swj2pu/jai_trouv%C3%A9_du_roquefort_soci%C3%A9t%C3%A9_aux_usa_et_il_y_a/",
+    "selector": "#t1_hxmcw9j-post-rtjson-content",
+    "contentSnippet": "blague sur la fragilité des américain",
+    "aiText": "Roquefort Société qui effraie les US ? 😂 Trop bien ! On dirait qu'ils ont peur de devenir des râleurs !\n\nLa moutarde Maille, c'est du vol ! Une version fade et sans âme, c'est du camembert en plastique 😤\n\nBravo pour le \"charcuterie\" à l'étranger, faut défendre nos traditions !",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte est court et se compose de deux parties distinctes : une phrase en anglais suivie d’une phrase en français. La phrase anglaise est une mise en garde, tandis que la phrase française est une remarque humoristique. Le passage brusque de l'anglais au français est inhabituel et crée un rythme saccadé. \n\n**Prévisibilité du langage :** La phrase en anglais est une formule standard que l'on trouve souvent sur les emballages alimentaires. La phrase en français utilise un cliché (\"trop facile\") et une formulation attendue pour une blague. L'ensemble du texte est donc assez prévisible dans son contenu et son style.\n\n**Présence d’une voix humaine :** La deuxième phrase révèle une subjectivité claire (le jugement sur la blague) et une forme d'ironie. Cependant, l'association avec la phrase en anglais, qui a un ton neutre, atténue l'impression d'une réelle voix personnelle.",
+      "final_score": {
+        "probability": 0.6,
+        "conclusion": "Le texte présente des éléments qui pourraient être produits par une intelligence artificielle (phrase en anglais standard, cliché humoristique) combinés à une légère touche d'ironie qui suggère une intervention humaine. La combinaison inhabituelle des deux langues renforce le sentiment d'une construction artificielle."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte est très court et composé de phrases simples, voire télégraphiques. Il alterne entre exclamations, interrogations rhétoriques et affirmations directes, créant un rythme vif et discontinu. L’utilisation d’emojis et de termes familiers (“trop bien”, “râleurs”) renforce l’impression de spontanéité.\n\n**Prévisibilité du langage :** Le vocabulaire est courant et les expressions sont largement répandues. Les comparaisons sont directes et imagées (“camembert en plastique”), mais peu originales. Le texte utilise des codes du commentaire en ligne : humour, exagération, opinions tranchées.\n\n**Présence d’une voix humaine :** Le texte exprime clairement des émotions (amusement, indignation) et un attachement aux traditions françaises. Le ton est subjectif, personnel et engagé, avec une forte présence de l’auteur.",
+      "final_score": {
+        "probability": 0.1,
+        "conclusion": "Le texte présente de très forts indices d’une écriture humaine, notamment par son ton émotionnel, sa spontanéité, son humour et son engagement personnel. Le style informel et l’utilisation d’emojis confirment cette impression."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://www.jeuxvideo.com/forums/42-3031-48483812-1-0-1-0-compatibilite-sauvegarde-entre-versions-sur-ps1.htm",
+    "selector": ".txt-msg p",
+    "contentSnippet": "Aucune idée... Je dirais oui",
+    "aiText": "Je me pose la même question, t'as pu tester finalement ou pas ?",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte est très court et composé de phrases simples. Le rythme est direct, voire abrupte, comme une réponse rapide à une question. L'absence de connecteurs logiques renforce cette impression de spontanéité. \n\n**Prévisibilité du langage :** Le vocabulaire est courant et les expressions sont banales. La formulation est directe et ne présente pas de particularité stylistique. On pourrait s'attendre à ce type de réponse dans une conversation informelle\n\n**Présence d’une voix humaine :** Le texte exprime une opinion brève et incertaine (\"Aucune idée...\"). La suggestion de tester est pragmatique et rappelle une démarche de dépannage courante chez les joueurs.",
+      "final_score": {
+        "probability": 0.6,
+        "conclusion": "Le texte présente des caractéristiques d’une écriture humaine, notamment par sa concision, son ton informel et sa réponse pratique à une question. Cependant, sa brièveté et son manque de détails ne permettent pas d’écarter totalement une origine artificielle."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte est très court et se limite à une question directe. Il est composé d'une seule phrase, simple et concise. Le rythme est rapide, typique d'une interaction informelle. \n\n**Prévisibilité du langage :** Le vocabulaire est extrêmement courant et la formulation est très standard. La question est directe et ne contient aucun élément original ou surprenant. Il s'agit d'une phrase typique dans un contexte de discussion en ligne.\n\n**Présence d’une voix humaine :** Bien que bref, le message exprime une interrogation et un intérêt pour la réponse d'une autre personne. L’utilisation du tutoiement et l’abréviation (“t’as”) donnent une impression de spontanéité et de conversation naturelle.",
+      "final_score": {
+        "probability": 0.1,
+        "conclusion": "Le texte présente des caractéristiques fortes d'une communication humaine spontanée, notamment par sa concision, son langage courant et son expression d'une requête directe."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://www.jeuxvideo.com/forums/42-3000003-70395444-1-0-1-0-trophees-non-debloque.htm",
+    "selector": ".txt-msg p",
+    "contentSnippet": "Non redémarre le jeu et recharge une partie, si ça ne va toujours pas",
+    "aiText": "Tes sur que ta bien fait les défis en mode difficile ? Moi aussi j'ai cru que ça avait bugger mais en faite j'en avais oublier un dans l'arène du haut.",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte est court et direct, constitué de deux phrases principales reliées par une conjonction de coordination. Le rythme est rapide et pragmatique, typique d'une réponse rapide sur un forum. La construction des phrases est simple et sans fioritures. \n\n**Prévisibilité du langage :** Le vocabulaire est très courant et les instructions sont standard pour résoudre un problème technique. On retrouve des formules typiques de l'aide en ligne (\"si ça ne va pas\", \"normalement après ça devrait aller\"). Le texte est donc très prévisible. \n\n**Présence d’une voix humaine :** Le texte manque de subjectivité ou d'émotion. Il s'agit d'une série de conseils techniques impersonnels. Bien que l'abréviation \"jeux\" et les deux points peuvent indiquer une certaine informalité, cela ne suffit pas à établir une forte présence humaine.",
+      "final_score": {
+        "probability": 0.8,
+        "conclusion": "Le texte présente une forte probabilité d'être généré automatiquement ou d'être une réponse très standardisée. Sa simplicité, son absence de nuances et son vocabulaire courant le rendent peu susceptible d'être le fruit d'une expression personnelle originale."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte est court et utilise un langage très familier, voire relâché (« Tes sur », « bugger »). Les phrases sont simples et directes, avec un rythme rapide. L’ensemble donne l’impression d’une conversation informelle et spontanée. \n\n**Prévisibilité du langage :** Le vocabulaire est limité et les tournures de phrases sont très courantes. Le contenu est axé sur une question pratique et une résolution de problème spécifique, ce qui rend le langage assez prévisible. \n\n**Présence d’une voix humaine :** Le texte utilise des abréviations et des fautes d'orthographe courantes dans les échanges écrits informels. L'auteur exprime une hésitation (",
+      "final_score": {
+        "probability": 0.15,
+        "conclusion": "Le texte présente des caractéristiques fortes d'une écriture humaine spontanée, notamment son langage familier, ses erreurs et l'expression d'un vécu personnel. La brièveté et la simplicité ne sont pas nécessairement le signe d'une IA."
+      }
+    }
+  },
+  {
+    "urlMatch": "https://www.reddit.com/r/Lyon/comments/tgzdyz/le_30_mars_2022_la_ville_de_lyon_passe_%C3%A0_30kmh/",
+    "selector": "#t1_i15nvee-post-rtjson-content",
+    "contentSnippet": "grosse mesure en effet... C'est sûr que ça va calmer",
+    "aiText": "Franchement, je suis bien d'accord avec cette grosse mesure des 30 km/h. Y'en a marre de voir les mecs foncer en ville, c'est devenu n'importe quoi.\n\nEntre ceux qui roulent à donf, ceux qui grillent les feux rouges et les autres qui sont scotchés à leur téléphone… Ha oui, j'ai vu un chauffard il y a pas longtemps, limite il a failli percuter une mamie qui traversait.\n\nBon, ceux qui respectent les limitations, ça les concerne pas hein, mais faut bien faire quelque chose non ? C'est peut-être pas la panacée, mais si ça peut éviter des drames…",
+    "storedLLMResponseHuman": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte se caractérise par un style très oral et informel. Les phrases sont courtes, souvent incomplètes et ponctuées par des ellipses. Le rythme est rapide, avec une alternance entre affirmations et anecdotes. L'utilisation de termes familiers et d'expressions courantes contribue à l'impression de spontanéité.\n\n**Prévisibilité du langage :** Le vocabulaire est simple et les idées exprimées sont assez générales, mais le texte contient des exemples précis et concrets qui le rendent moins prévisible qu'un simple commentaire générique. L'accumulation de détails sur les comportements dangereux des conducteurs renforce l'impression d'un témoignage personnel.\n\n**Présence d’une voix humaine :** Le texte exprime clairement un avis personnel et une certaine exaspération face aux incivilités au volant. L'auteur utilise un langage direct et sans fard, avec des expressions comme \"C'est sûr que ça va calmer les mecs\" ou \"J'ai meme vu...\", qui témoignent d'une forte implication émotionnelle et d'un style personnel marqué.",
+      "final_score": {
+        "probability": 0.2,
+        "conclusion": "Le texte présente de nombreux indices d'une écriture humaine, notamment son style très oral, son vocabulaire familier, ses exemples concrets et l'expression d'un point de vue personnel."
+      }
+    },
+    "storedLLMResponseAI": {
+      "analysis_report": "**Variété et naturel de l’écriture :** Le texte utilise un style très oral, avec des phrases courtes et un vocabulaire familier. L'alternance entre phrases descriptives et exclamatives crée un rythme rapide et spontané. L'utilisation de contractions (\"Y'en a\", \"c'est\") renforce l'impression de langage parlé. \n\n**Prévisibilité du langage :** Le texte aborde un sujet courant (la vitesse en ville) avec des arguments et des expressions typiques du débat. Les tournures de phrase sont simples et peu originales. Le vocabulaire est courant et peu recherché.\n\n**Présence d’une voix humaine :** Le texte exprime clairement un avis personnel, avec des émotions (agacement, inquiétude) et des exemples concrets (le chauffard qui a failli percuter une mamie). Le style informel et l’utilisation d’expressions populaires donnent l’impression d’une personne réelle qui s’exprime.",
+      "final_score": {
+        "probability": 0.2,
+        "conclusion": "Le texte présente de forts indices d'une écriture humaine, en particulier par son ton direct, son vocabulaire familier et l'expression d'un point de vue subjectif avec des exemples personnels."
+      }
+    }
+  }
+]

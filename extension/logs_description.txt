@@ -1,0 +1,66 @@
+FIELDS :
+(general)
+- timestamp : timestamp du log
+ 	-> récupéré lors de la création du log
+- event_type : type du log
+	-> rempli lors de la création du log en fonction de ce que le log dit
+- session_id : l'identifiant de l'experimentation (le même pour tous les logs d'un utilisateur)
+ 	-> créé au départ de l'extension
+- trial_id : le numéro du tab dans l'ordre d'experimentation
+ 	-> créé lors du bouton start dans les tabs
+- post : url pour le retrouver par la suite
+ 	-> défini lors de la création de l'onglet
+- condition : Humain seul ou Humain + AI
+ 	-> récupéré du checkbox "User Alone"
+- model_used : modèle LLM utilisé
+	-> basé sur le dropdown de sélection de LLM
+- ai_generated_post : booleen sur si le post de l'onglet est généré par une IA ou Humain
+	-> défini après quelques secondes une fois que la page est chargée
+
+(user choice)
+- user_confidence : confiance de l'user dans sa réponse
+	-> choix par l'user (radio buttons)
+- user_decision : décision de l'utilisateur Yes / No pour si le texte est écrit par une IA
+	-> choix par l'user (radio buttons)
+- decision_time_ms : temps entre la fin de la génération de la réponse de l'IA et le choix
+	-> timestamp enregistré lorsque AI finit de répondre, donc compare avec ce timestamp
+- user_action : suit le choix du LLM -> accept, inverse du choix du LLM -> refuse, n'utilise pas le LLM -> ignore
+	-> compare avec ai_output_probability
+- correct : YES/NO si l'utilisateur a fait le bon choix
+	-> compare user_decision avec ai_generated_post
+
+(LLM responses)
+- ai_output_probability : estimation IA du LLM pour l'évaluation
+	-> dans la réponse du LLM dans l'évaluation
+- ai_output_response : réponse du LLM pour l'évaluation
+	-> dans la réponse du LLM dans l'évaluation
+- ai_uncertainty : 40%-60% -> high, 20%-40% et 60%-80% -> medium, 0%-20% et 80%-100% -> low
+	-> basé sur ai_output_probability
+- extracted_text : texte extrait de la capture d'écran
+	-> dans la réponse du LLM dans l'extraction de texte
+
+(other)
+- capture_name : nom de la capture d'écran
+	-> variable stocke nom du fichier de la dernière capture d'écran
+- notes : notes additionelles
+
+
+LOGS :
+- post_edited : (site) post edité (humain ou AI)
+	- timestamp, event_type, session_id, trial_id, post, condition, model_used, ai_generated_post
+- start : (user) clic sur bouton start
+	- timestamp, event_type, session_id, trial_id, post, condition, model_used, ai_generated_post
+- capture_context : (user) fin de la capture d'écran du contexte
+	- timestamp, event_type, session_id, trial_id, post, condition, model_used, ai_generated_post, capture_name
+- extract_text_initiated : (user) fin de la capture d'écran pour extraire le texte
+	- timestamp, event_type, session_id, trial_id, post, condition, model_used, ai_generated_post, capture_context
+- extract_text_ended : (AI) AI a fini d'éxtraire le texte
+	- timestamp, event_type, session_id, trial_id, post, condition, model_used, ai_generated_post, extracted_text
+- manual_text_edit : (user) user a édité le texte (envoyé uniquement si le dernier log n'était pas un manual_text_edit pour éviter le spam de logs à chaque lettre qui change)
+	- timestamp, event_type, session_id, trial_id, post, condition, model_used, ai_generated_post
+- evaluate_clicked : (user) clic sur le bouton evaluate text
+	- timestamp, event_type, session_id, trial_id, post, condition, model_used, ai_generated_post, extracted_text
+- evaluation_ended : (AI) AI a fini d'analyser le texte et répondu
+	- timestamp, event_type, session_id, trial_id, post, condition, model_used, ai_generated_post, extracted_text, ai_output_probability, ai_output_response, ai_uncertainty
+- decision : (user) clic (valide) sur le bouton confirm pour décider si le texte est IA ou non
+	- timestamp, event_type, session_id, trial_id, post, condition, model_used, ai_generated_post, user_confidence, user_decision, decision_time_ms, user_action, correct
