@@ -75,7 +75,7 @@
       "analysis_report": "**Variété et naturel de l’écriture :** Le texte présente un style conversationnel, avec un usage fréquent d'expressions familières (\"Salut tout le monde\", \"dingue\", \"trucs\", \"et j'en passe\"). Les phrases sont de longueurs variées, alternant entre des phrases courtes et des développements plus longs, ce qui donne une impression de spontanéité. L'ensemble est rythmé et facile à lire.\n\n**Prévisibilité du langage :** Le vocabulaire est simple et courant. Les anecdotes partagées sont typiques de conversations informelles. La structure du texte, avec une introduction, un développement basé sur des exemples personnels, et une question ouverte à la fin, est assez classique et attendue.\n\n**Présence d’une voix humaine :** Le texte exprime une curiosité personnelle (\"J'ai toujours été un peu fasciné...\") et un intérêt pour les expériences des autres. Les exemples concrets (\"Mes amies infirmières...\") et le ton direct (\"c'est dingue\") renforcent l'impression d'une véritable personne qui s'exprime.",
       "final_score": {
         "probability": 0.3,
-        "conclusion": "TODOLe texte présente des caractéristiques fortes d'une écriture humaine, notamment par son ton conversationnel, son utilisation d'anecdotes personnelles et son rythme naturel. La simplicité du vocabulaire et la structure classique du texte ne suffisent pas à conclure à une génération automatique."
+        "conclusion": "Le texte présente des caractéristiques fortes d'une écriture humaine, notamment par son ton conversationnel, son utilisation d'anecdotes personnelles et son rythme naturel. La simplicité du vocabulaire et la structure classique du texte ne suffisent pas à conclure à une génération automatique."
       }
     }
   },
