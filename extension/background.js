@@ -227,8 +227,7 @@ async function handleCroppedCaptureComplete(type, dataUrl, url) {
     sendCurrentStateToPopup();
 }
 
-// --- NEW LOGGING SYSTEM ---
-// Updated to support the new log structure with all required fields
+// --- LOGGING SYSTEM ---
 async function saveLog(entry) {
     const { logs = [] } = await chrome.storage.local.get('logs');
     

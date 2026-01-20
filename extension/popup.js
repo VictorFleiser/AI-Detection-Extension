@@ -369,8 +369,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     }
 
-    // --- NEW LOGGING SYSTEM ---
-    // Helper to send logs with new field structure
+    // --- LOGGING SYSTEM ---
+    // Helper to send logs
     function sendLog(eventType, additionalFields = {}) {
         // Update the last logged event type (unless it's manual_text_edit, which updates itself)
         if (eventType !== 'manual_text_edit') {
@@ -490,7 +490,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const { logs = [] } = await chrome.storage.local.get('logs');
         if (logs.length === 0) return alert("No logs to download");
 
-        // NEW CSV HEADERS - Updated to match new log structure
         const headers = [
             "timestamp", "event_type", "session_id", "trial_id", "post", 
             "condition", "model_used", "ai_generated_post",
