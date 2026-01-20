@@ -320,9 +320,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     probability = parseFloat(probMatch[1]);
                     // Determine decision label based on probability
                     let decisionLabel = 'unsure';
-                    if (probability > 0.5) {
+                    if (probability > 0.55) {
                         decisionLabel = 'AI Post';
-                    } else if (probability < 0.5) {
+                    } else if (probability < 0.45) {
                         decisionLabel = 'Human Post';
                     }
                     // Determine uncertainty badge
@@ -369,8 +369,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     }
 
-    // --- LOGGING SYSTEM ---
-    // Helper to send logs
+    // --- NEW LOGGING SYSTEM ---
+    // Helper to send logs with new field structure
     function sendLog(eventType, additionalFields = {}) {
         // Update the last logged event type (unless it's manual_text_edit, which updates itself)
         if (eventType !== 'manual_text_edit') {
@@ -442,6 +442,48 @@ document.addEventListener('DOMContentLoaded', () => {
                 correct = (userThinksAI === aiGenerated) ? 'YES' : 'NO';
             }
 
+            // --- Guardrails GF1 & GF2 ---
+            // GF1: if user accepts the AI suggestion 3 times in a row, warn
+            // GF2: if decision_time_ms < 3000ms three times in a row, warn
+            chrome.storage.local.get(['gf1_consec_accepts', 'gf2_consec_quick'], (counters) => {
+                let gf1 = counters.gf1_consec_accepts ?? 0;
+                let gf2 = counters.gf2_consec_quick ?? 0;
+
+                // Update GF1 counter
+                if (userAction === 'accept') {
+                    gf1 += 1;
+                } else {
+                    gf1 = 0;
+                }
+
+                // Update GF2 counter
+                if (decisionTimeMs !== null && decisionTimeMs < 3000) {
+                    gf2 += 1;
+                } else {
+                    gf2 = 0;
+                }
+
+                // Persist updated counters
+                chrome.storage.local.set({ gf1_consec_accepts: gf1, gf2_consec_quick: gf2 });
+
+                // Trigger GF1 if threshold reached
+                if (gf1 >= 3) {
+                    alert("N'oubliez pas que l'IA peut se tromper");
+                    // Log guardrail event
+                    sendLog('guardrail', { guardrail: 'GF1', message: "N'oubliez pas que l'IA peut se tromper" });
+                    // Reset counter
+                    chrome.storage.local.set({ gf1_consec_accepts: 0 });
+                }
+
+                // Trigger GF2 if threshold reached
+                if (gf2 >= 3) {
+                    alert('Prenez le temps d\'analyser la justification');
+                    sendLog('guardrail', { guardrail: 'GF2', message: "Prenez le temps d'analyser la justification" });
+                    chrome.storage.local.set({ gf2_consec_quick: 0 });
+                }
+            });
+
+            // Finally send the decision log
             sendLog('decision', {
                 user_confidence: userConfidence,
                 user_decision: userDecision,
@@ -490,6 +532,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const { logs = [] } = await chrome.storage.local.get('logs');
         if (logs.length === 0) return alert("No logs to download");
 
+        // NEW CSV HEADERS - Updated to match new log structure
         const headers = [
             "timestamp", "event_type", "session_id", "trial_id", "post", 
             "condition", "model_used", "ai_generated_post",
