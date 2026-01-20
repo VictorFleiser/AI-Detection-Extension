@@ -1,0 +1,234 @@
+timestamp,event_type,session_id,trial_id,post,condition,model_used,ai_generated_post,user_confidence,user_decision,decision_time_ms,user_action,correct,ai_output_probability,ai_output_response,ai_output_conclusion,ai_uncertainty,extracted_text,capture_name,notes
+2026-01-19T20:22:26.984Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.jeuxvideo.com/forums/42-3031-48483812-1-0-1-0-compatibilite-sauvegarde-entre-versions-sur-ps1.htm,User + AI,,false,,,,,,,,,,,,
+2026-01-19T20:22:27.087Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.jeuxvideo.com/forums/42-3000003-70395444-1-0-1-0-trophees-non-debloque.htm,User + AI,,true,,,,,,,,,,,,
+2026-01-19T20:22:27.460Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.reddit.com/r/Lyon/comments/tgzdyz/le_30_mars_2022_la_ville_de_lyon_passe_%C3%A0_30kmh/,User + AI,,true,,,,,,,,,,,,
+2026-01-19T20:22:28.197Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.reddit.com/r/france/comments/tw35nv/avis_pour_robot_cuiseur/,User + AI,,true,,,,,,,,,,,,
+2026-01-19T20:22:28.274Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.reddit.com/r/france/comments/swj2pu/jai_trouv%C3%A9_du_roquefort_soci%C3%A9t%C3%A9_aux_usa_et_il_y_a/,User + AI,,true,,,,,,,,,,,,
+2026-01-19T20:22:28.375Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.reddit.com/r/france/comments/u3lgkb/questce_qui_rend_votre_m%C3%A9tier_indispensable/,User + AI,,false,,,,,,,,,,,,
+2026-01-19T20:22:28.383Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.reddit.com/r/france/comments/uni1lh/que_peuton_faire_si_on_a_identifi%C3%A9_un_vendeur/,User + AI,,true,,,,,,,,,,,,
+2026-01-19T20:22:28.395Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.reddit.com/r/france/comments/uquq0g/estce_que_vous_avez_une_d%C3%A9formation/,User + AI,,false,,,,,,,,,,,,
+2026-01-19T20:22:28.437Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.reddit.com/r/france/comments/iwiq5r/suggestions_de_hobby/,User + AI,,true,,,,,,,,,,,,
+2026-01-19T20:22:28.570Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://www.reddit.com/r/philosophie/comments/vz90xf/pour_vous_quel_serait_le_sens_de_la_vie/,User + AI,,true,,,,,,,,,,,,
+2026-01-19T20:22:28.876Z,post_edited,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,"
+",https://x.com/thibaultbrock/status/1226080474289844224,User + AI,,false,,,,,,,,,,,,
+2026-01-19T20:25:05.533Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,0,https://www.reddit.com/r/france/comments/uni1lh/que_peuton_faire_si_on_a_identifi%C3%A9_un_vendeur,User + AI,gemma3,true,,,,,,,,,,,,
+2026-01-19T20:25:05.977Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,0,https://www.reddit.com/r/france/comments/uni1lh/que_peuton_faire_si_on_a_identifi%C3%A9_un_vendeur,User + AI,gemma3,true,,,,,,,,,,"Punaise, c'est vraiment chiant pour ton ami, ces vols de colis ça arrive trop souvent…
+
+Pour essayer d'aider un peu, je pense qu'il faudrait vraiment envoyer tout ça à la police ou gendarmerie, genre :
+
+- Les preuves d'achat (facture, capture écran de la commande)
+- Les preuves que le colis a disparu (le suivi GLS, les dates…)
+- Le lien vers l'annonce eBay et le profil du vendeur, avec tout ce qu'il a vendu d'autre.
+
+Ça peut vraiment les aider à identifier le mec et, même si récupérer le Steam Deck est pas gagné, au moins qu'il se ferra. C'est déjà ça, non ?
+
+En espérant qu'ils trouvent le receleur. C'est tellement frustrant de voir que les voleurs s'en sortent comme",,
+2026-01-19T20:25:05.984Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,0,https://www.reddit.com/r/france/comments/uni1lh/que_peuton_faire_si_on_a_identifi%C3%A9_un_vendeur,User + AI,gemma3,true,,,,,,0.2,"**Variété et naturel de l’écriture :** Le texte présente un rythme conversationnel, avec des phrases de longueurs variées et des interjections (« Punaise », « C’est déjà ça, non ? »). L’utilisation de points de suspension et d'expressions familières contribue à un ton spontané et informel.
+
+**Prévisibilité du langage :** Le vocabulaire est courant et accessible. Les conseils donnés sont logiques et attendus dans ce type de situation. Le texte n’utilise pas de figures de style ou de tournures de phrases particulièrement originales.
+
+**Présence d’une voix humaine :** Le texte exprime clairement de l’empathie et de la frustration face à la situation du destinataire. L'utilisation de termes familiers, d'onomatopées et de questions rhétoriques donne l'impression d'une véritable personne exprimant son opinion et sa compassion.","Le texte présente de forts indices d’une écriture humaine, notamment par son ton empathique, son rythme conversationnel et l’utilisation d’un langage familier. La combinaison de ces éléments suggère une expression personnelle authentique.",medium,"Punaise, c'est vraiment chiant pour ton ami, ces vols de colis ça arrive trop souvent…
+
+Pour essayer d'aider un peu, je pense qu'il faudrait vraiment envoyer tout ça à la police ou gendarmerie, genre :
+
+- Les preuves d'achat (facture, capture écran de la commande)
+- Les preuves que le colis a disparu (le suivi GLS, les dates…)
+- Le lien vers l'annonce eBay et le profil du vendeur, avec tout ce qu'il a vendu d'autre.
+
+Ça peut vraiment les aider à identifier le mec et, même si récupérer le Steam Deck est pas gagné, au moins qu'il se ferra. C'est déjà ça, non ?
+
+En espérant qu'ils trouvent le receleur. C'est tellement frustrant de voir que les voleurs s'en sortent comme",,
+2026-01-19T20:27:18.034Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,0,https://www.reddit.com/r/france/comments/uni1lh/que_peuton_faire_si_on_a_identifi%C3%A9_un_vendeur,User + AI,gemma3,true,0.7,Yes,63320,refuse,NO,,,,,"Punaise, c'est vraiment chiant pour ton ami, ces vols de colis ça arrive trop souvent…
+
+Pour essayer d'aider un peu, je pense qu'il faudrait vraiment envoyer tout ça à la police ou gendarmerie, genre :
+
+- Les preuves d'achat (facture, capture écran de la commande)
+- Les preuves que le colis a disparu (le suivi GLS, les dates…)
+- Le lien vers l'annonce eBay et le profil du vendeur, avec tout ce qu'il a vendu d'autre.
+
+Ça peut vraiment les aider à identifier le mec et, même si récupérer le Steam Deck est pas gagné, au moins qu'il se ferra. C'est déjà ça, non ?
+
+En espérant qu'ils trouvent le receleur. C'est tellement frustrant de voir que les voleurs s'en sortent comme",,
+2026-01-19T20:28:01.210Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,1,https://www.reddit.com/r/france/comments/uquq0g/estce_que_vous_avez_une_d%C3%A9formation,User + AI,gemma3,false,,,,,,,,,,,,
+2026-01-19T20:28:07.617Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,1,https://www.reddit.com/r/france/comments/uquq0g/estce_que_vous_avez_une_d%C3%A9formation,User + AI,gemma3,false,,,,,,,,,,"Est-ce que vous avez une déformation professionnelle?
+Pour moi personnellement non, mais j'ai rencontré plusieurs personnes qui ont tendance à reproduire inconsciemment ce qu'elles font au travail. Notamment celles qui travaillent dans la santé.
+
+J'ai plusieurs amies infirmières qui repèrent les veines qu'elles pourraient utiliser pour faire des prises de sang, transfusions et j'en passe, sur les gens qui les entourent ou même des inconnus, alors qu'elles sont au bar ou au restaurant
+
+Et vous?",,
+2026-01-19T20:28:07.626Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,1,https://www.reddit.com/r/france/comments/uquq0g/estce_que_vous_avez_une_d%C3%A9formation,User + AI,gemma3,false,,,,,,0.6,"**Variété et naturel de l’écriture :** Le texte présente une structure simple, avec un mélange de phrases courtes et de phrases plus longues, mais globalement assez régulières. Le rythme est plutôt fluide et conversationnel. La présence de connecteurs logiques est limitée.
+
+**Prévisibilité du langage :** Le vocabulaire est courant et les formulations sont relativement prévisibles. Il n'y a pas de tournures de phrases particulièrement originales ou inhabituelles. Le contenu est anecdotique et pourrait facilement être transposé à d'autres situations.
+
+**Présence d’une voix humaine :** Le texte s'ouvre sur une opinion personnelle (“Pour moi personnellement”), mais l'anecdote qui suit est présentée de manière assez factuelle. Le ton est informel et le style est simple, ce qui suggère une communication directe et sans artifice. L’utilisation du tutoiement renforce cet aspect.","Le texte présente une forte probabilité d’avoir été écrit par un humain. Bien que le style soit simple et le vocabulaire courant, l’anecdote personnelle et le ton informel suggèrent une communication authentique et spontanée.",high,"Est-ce que vous avez une déformation professionnelle?
+Pour moi personnellement non, mais j'ai rencontré plusieurs personnes qui ont tendance à reproduire inconsciemment ce qu'elles font au travail. Notamment celles qui travaillent dans la santé.
+
+J'ai plusieurs amies infirmières qui repèrent les veines qu'elles pourraient utiliser pour faire des prises de sang, transfusions et j'en passe, sur les gens qui les entourent ou même des inconnus, alors qu'elles sont au bar ou au restaurant
+
+Et vous?",,
+2026-01-19T20:29:16.353Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,1,https://www.reddit.com/r/france/comments/uquq0g/estce_que_vous_avez_une_d%C3%A9formation,User + AI,gemma3,false,0.8,No,48246,refuse,NO,,,,,"Est-ce que vous avez une déformation professionnelle?
+Pour moi personnellement non, mais j'ai rencontré plusieurs personnes qui ont tendance à reproduire inconsciemment ce qu'elles font au travail. Notamment celles qui travaillent dans la santé.
+
+J'ai plusieurs amies infirmières qui repèrent les veines qu'elles pourraient utiliser pour faire des prises de sang, transfusions et j'en passe, sur les gens qui les entourent ou même des inconnus, alors qu'elles sont au bar ou au restaurant
+
+Et vous?",,
+2026-01-19T20:30:29.760Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,2,https://www.reddit.com/r/philosophie/comments/vz90xf/pour_vous_quel_serait_le_sens_de_la_vie,User + AI,gemma3,true,,,,,,,,,,,,
+2026-01-19T20:30:29.835Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,2,https://www.reddit.com/r/philosophie/comments/vz90xf/pour_vous_quel_serait_le_sens_de_la_vie,User + AI,gemma3,true,,,,,,,,,,"Euh… le sens de la vie, ça me semble une question un peu bête en fait. Enfin, je ne pense pas qu'il y en ait un, honnêtement. On est juste là, point. Une espèce de… hasard cosmique quoi.
+
+Je vois pas trop ce qu'on pourrait y faire. Certains cherchent le bonheur, c'est cool pour eux, mais il me semble un peu naïf de penser que ça a une vraie valeur. Genre, dans 100 ans, tout le monde sera mort, l'univers s'en foutra complètement.
+
+Alors, au final, j'dirais que le mieux c'est peut-être juste de faire avec, de pas trop y penser et… osef, en fait. Ça marche pas toujours, mais bon, ça aide un peu. Enfin, je sais pas… c'est juste mon avis.",,
+2026-01-19T20:30:29.842Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,2,https://www.reddit.com/r/philosophie/comments/vz90xf/pour_vous_quel_serait_le_sens_de_la_vie,User + AI,gemma3,true,,,,,,0.3,"**Variété et naturel de l’écriture :** Le texte est caractérisé par un rythme oral et hésitant, marqué par l'emploi fréquent d'interjections (« Euh… ») et de formules d'atténuation (« en fait », « un peu »). Les phrases sont de longueur variable, alternant entre propositions courtes et développements plus longs, ce qui crée une impression de spontanéité.
+
+**Prévisibilité du langage :** Le vocabulaire est simple et courant, sans recherche particulière. Les idées exprimées sont des réflexions philosophiques classiques, mais présentées de manière très personnelle et informelle. Certaines tournures de phrases sont peu conventionnelles (« il me semble un peu naïf de penser que ça a une vraie valeur ») et sortent des sentiers battus.
+
+**Présence d’une voix humaine :** Le texte est fortement marqué par la subjectivité et l'expression d'opinions personnelles (« Ça marche pas toujours, mais bon, ça aide un peu », « c'est juste mon avis »). Les hésitations, les répétitions et le ton familier contribuent à créer une impression d'authenticité et de sincérité.","Le texte présente de nombreux éléments indiquant une écriture humaine, notamment son style oral, ses hésitations, son ton personnel et l'expression d'un point de vue subjectif. Bien que les idées abordées soient classiques, leur présentation informelle et nuancée plaide en faveur d'une origine humaine.",medium,"Euh… le sens de la vie, ça me semble une question un peu bête en fait. Enfin, je ne pense pas qu'il y en ait un, honnêtement. On est juste là, point. Une espèce de… hasard cosmique quoi.
+
+Je vois pas trop ce qu'on pourrait y faire. Certains cherchent le bonheur, c'est cool pour eux, mais il me semble un peu naïf de penser que ça a une vraie valeur. Genre, dans 100 ans, tout le monde sera mort, l'univers s'en foutra complètement.
+
+Alors, au final, j'dirais que le mieux c'est peut-être juste de faire avec, de pas trop y penser et… osef, en fait. Ça marche pas toujours, mais bon, ça aide un peu. Enfin, je sais pas… c'est juste mon avis.",,
+2026-01-19T20:31:20.708Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,2,https://www.reddit.com/r/philosophie/comments/vz90xf/pour_vous_quel_serait_le_sens_de_la_vie,User + AI,gemma3,true,0.8,Yes,50833,refuse,NO,,,,,"Euh… le sens de la vie, ça me semble une question un peu bête en fait. Enfin, je ne pense pas qu'il y en ait un, honnêtement. On est juste là, point. Une espèce de… hasard cosmique quoi.
+
+Je vois pas trop ce qu'on pourrait y faire. Certains cherchent le bonheur, c'est cool pour eux, mais il me semble un peu naïf de penser que ça a une vraie valeur. Genre, dans 100 ans, tout le monde sera mort, l'univers s'en foutra complètement.
+
+Alors, au final, j'dirais que le mieux c'est peut-être juste de faire avec, de pas trop y penser et… osef, en fait. Ça marche pas toujours, mais bon, ça aide un peu. Enfin, je sais pas… c'est juste mon avis.",,
+2026-01-19T20:32:01.781Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,3,https://www.reddit.com/r/france/comments/iwiq5r/suggestions_de_hobby,User + AI,gemma3,true,,,,,,,,,,,,
+2026-01-19T20:32:04.437Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,3,https://www.reddit.com/r/france/comments/iwiq5r/suggestions_de_hobby,User + AI,gemma3,true,,,,,,,,,,"Suggestions de hobby ?
+Bonjour r/france!
+
+Je me rends compte que je passe trop de temps devant l'écran ou à assembler des Legos seul. C'est sympa au début, mais ça devient du gaspillage de temps. J'aimerais trouver un vrai passe-temps, quelque chose qui ne prenne pas trop de place et ne coûte pas cher.
+
+J'aimerais aussi arrêter de consommer passivement. Si en plus ça pouvait me rapporter un peu, même symboliquement, ce serait super ! Je suis ouvert à toutes les idées, je ne sais pas vraiment ce qui me plairait… Vous avez des passions ou des activités à me faire découvrir ?
+
+Merci d'avance pour vos suggestions, je suis preneur de tous les conseils ! 🙏",,
+2026-01-19T20:32:04.449Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,3,https://www.reddit.com/r/france/comments/iwiq5r/suggestions_de_hobby,User + AI,gemma3,true,,,,,,0.4,"**Variété et naturel de l’écriture :** Le texte présente une alternance entre des phrases courtes et plus élaborées, mais le rythme général est assez fluide et direct. On observe une structure claire en paragraphes, avec une introduction, un développement et une conclusion. L’utilisation de connecteurs logiques est présente mais sans excès.
+
+**Prévisibilité du langage :** Le vocabulaire est courant et accessible. Les expressions utilisées sont souvent attendues dans ce type de demande de conseil (ex: ""passe-temps"", ""consommer passivement"", ""être preneur""). L’ensemble dégage une certaine simplicité qui peut le rendre moins original.
+
+**Présence d’une voix humaine :** Le texte exprime clairement les besoins et les envies de l’auteur, avec une tonalité sincère et humble. On perçoit une forme d’introspection et de volonté de changement. L’ajout de détails personnels (""Legos seul"", ""symboliquement"") contribue à renforcer l’impression d’une personne réelle qui s’exprime.","Le texte combine des éléments typiques d’une communication en ligne (simplicité du langage, demande de conseils) avec des touches personnelles qui suggèrent une expression authentique. Il est difficile de se prononcer avec certitude, mais les indices penchent légèrement en faveur d’une écriture humaine.",high,"Suggestions de hobby ?
+Bonjour r/france!
+
+Je me rends compte que je passe trop de temps devant l'écran ou à assembler des Legos seul. C'est sympa au début, mais ça devient du gaspillage de temps. J'aimerais trouver un vrai passe-temps, quelque chose qui ne prenne pas trop de place et ne coûte pas cher.
+
+J'aimerais aussi arrêter de consommer passivement. Si en plus ça pouvait me rapporter un peu, même symboliquement, ce serait super ! Je suis ouvert à toutes les idées, je ne sais pas vraiment ce qui me plairait… Vous avez des passions ou des activités à me faire découvrir ?
+
+Merci d'avance pour vos suggestions, je suis preneur de tous les conseils ! 🙏",,
+2026-01-19T20:33:05.826Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,3,https://www.reddit.com/r/france/comments/iwiq5r/suggestions_de_hobby,User + AI,gemma3,true,0.7,No,61356,accept,NO,,,,,"Suggestions de hobby ?
+Bonjour r/france!
+
+Je me rends compte que je passe trop de temps devant l'écran ou à assembler des Legos seul. C'est sympa au début, mais ça devient du gaspillage de temps. J'aimerais trouver un vrai passe-temps, quelque chose qui ne prenne pas trop de place et ne coûte pas cher.
+
+J'aimerais aussi arrêter de consommer passivement. Si en plus ça pouvait me rapporter un peu, même symboliquement, ce serait super ! Je suis ouvert à toutes les idées, je ne sais pas vraiment ce qui me plairait… Vous avez des passions ou des activités à me faire découvrir ?
+
+Merci d'avance pour vos suggestions, je suis preneur de tous les conseils ! 🙏",,
+2026-01-19T20:34:10.400Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,4,https://www.jeuxvideo.com/forums/42-3031-48483812-1-0-1-0-compatibilite-sauvegarde-entre-versions-sur-ps1.htm,User + AI,gemma3,false,,,,,,,,,,,,
+2026-01-19T20:34:10.958Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,4,https://www.jeuxvideo.com/forums/42-3031-48483812-1-0-1-0-compatibilite-sauvegarde-entre-versions-sur-ps1.htm,User + AI,gemma3,false,,,,,,,,,,"Aucune idée... Je dirais oui, à tester avec des iso sur émulateur d'abord pour être sûr.",,
+2026-01-19T20:34:10.968Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,4,https://www.jeuxvideo.com/forums/42-3031-48483812-1-0-1-0-compatibilite-sauvegarde-entre-versions-sur-ps1.htm,User + AI,gemma3,false,,,,,,0.6,"**Variété et naturel de l’écriture :** Le texte est très court et composé de phrases simples. Le rythme est direct, voire abrupte, comme une réponse rapide à une question. L'absence de connecteurs logiques renforce cette impression de spontanéité.
+
+**Prévisibilité du langage :** Le vocabulaire est courant et les expressions sont banales. La formulation est directe et ne présente pas de particularité stylistique. On pourrait s'attendre à ce type de réponse dans une conversation informelle
+
+**Présence d’une voix humaine :** Le texte exprime une opinion brève et incertaine (""Aucune idée...""). La suggestion de tester est pragmatique et rappelle une démarche de dépannage courante chez les joueurs.","Le texte présente des caractéristiques d’une écriture humaine, notamment par sa concision, son ton informel et sa réponse pratique à une question. Cependant, sa brièveté et son manque de détails ne permettent pas d’écarter totalement une origine artificielle.",high,"Aucune idée... Je dirais oui, à tester avec des iso sur émulateur d'abord pour être sûr.",,
+2026-01-19T20:35:21.243Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,4,https://www.jeuxvideo.com/forums/42-3031-48483812-1-0-1-0-compatibilite-sauvegarde-entre-versions-sur-ps1.htm,User + AI,gemma3,false,0.5,No,70245,refuse,NO,,,,,"Aucune idée... Je dirais oui, à tester avec des iso sur émulateur d'abord pour être sûr.",,
+2026-01-19T20:36:20.724Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,5,https://www.jeuxvideo.com/forums/42-3000003-70395444-1-0-1-0-trophees-non-debloque.htm,User + AI,gemma3,true,,,,,,,,,,,,
+2026-01-19T20:36:20.793Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,5,https://www.jeuxvideo.com/forums/42-3000003-70395444-1-0-1-0-trophees-non-debloque.htm,User + AI,gemma3,true,,,,,,,,,,Tes sur que ta bien fait les défis en mode difficile ? Moi aussi j'ai cru que ça avait bugger mais en faite j'en avais oublier un dans l'arène du haut.,,
+2026-01-19T20:36:20.804Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,5,https://www.jeuxvideo.com/forums/42-3000003-70395444-1-0-1-0-trophees-non-debloque.htm,User + AI,gemma3,true,,,,,,0.15,"**Variété et naturel de l’écriture :** Le texte est court et utilise un langage très familier, voire relâché (« Tes sur », « bugger »). Les phrases sont simples et directes, avec un rythme rapide. L’ensemble donne l’impression d’une conversation informelle et spontanée.
+
+**Prévisibilité du langage :** Le vocabulaire est limité et les tournures de phrases sont très courantes. Le contenu est axé sur une question pratique et une résolution de problème spécifique, ce qui rend le langage assez prévisible.
+
+**Présence d’une voix humaine :** Le texte utilise des abréviations et des fautes d'orthographe courantes dans les échanges écrits informels. L'auteur exprime une hésitation (","Le texte présente des caractéristiques fortes d'une écriture humaine spontanée, notamment son langage familier, ses erreurs et l'expression d'un vécu personnel. La brièveté et la simplicité ne sont pas nécessairement le signe d'une IA.",low,Tes sur que ta bien fait les défis en mode difficile ? Moi aussi j'ai cru que ça avait bugger mais en faite j'en avais oublier un dans l'arène du haut.,,
+2026-01-19T20:37:13.839Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,5,https://www.jeuxvideo.com/forums/42-3000003-70395444-1-0-1-0-trophees-non-debloque.htm,User + AI,gemma3,true,0.6,No,53017,accept,NO,,,,,Tes sur que ta bien fait les défis en mode difficile ? Moi aussi j'ai cru que ça avait bugger mais en faite j'en avais oublier un dans l'arène du haut.,,
+2026-01-19T20:38:58.018Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,6,https://www.reddit.com/r/france/comments/u3lgkb/questce_qui_rend_votre_m%C3%A9tier_indispensable/,User + AI,gemma3,false,,,,,,,,,,,,
+2026-01-19T20:39:02.640Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,6,https://www.reddit.com/r/france/comments/u3lgkb/questce_qui_rend_votre_m%C3%A9tier_indispensable/,User + AI,gemma3,false,,,,,,,,,,"Qu'est-ce qui rend votre métier indispensable ?
+Je me suis dis que cela pourrait être intéressant Pour ma part je suis agriculteur donc sans mon métier personne ne mange, pour être précis je suis chevrier avec des chèvres en pâture donc adieu les petits fromages de chèvres et fini les ballades puisque que sans leur action le territoire s'ensauvagerait et il faudrait y aller avec une machette.",,
+2026-01-19T20:39:02.649Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,6,https://www.reddit.com/r/france/comments/u3lgkb/questce_qui_rend_votre_m%C3%A9tier_indispensable/,User + AI,gemma3,false,,,,,,0.4,"**Variété et naturel de l’écriture :** Le texte présente une alternance inégale entre phrases courtes et plus longues. On observe une tendance à l'accumulation d'idées et de propositions, ce qui peut créer un rythme légèrement haché. Plusieurs phrases commencent par des expressions comme ""Je me suis dis"", ""Pour ma part"", suggérant une construction orale ou spontanée.
+
+**Prévisibilité du langage :** Le vocabulaire est simple et courant, mais certaines tournures sont inhabituelles (""adieu les petits fromages"", ""il faudrait y aller avec une machette""), ce qui rompt avec un langage trop générique. L’utilisation de ""donc"" est fréquente pour lier les idées, créant un enchaînement logique mais parfois un peu lourd.
+
+**Présence d’une voix humaine :** Le texte exprime une opinion personnelle et un attachement au métier de l'auteur. L'emploi de tournures familières et l'accumulation de détails concrets (élevage caprin, pâture, territoire) renforcent cette impression de vécu personnel et de subjectivité.","Le texte présente un mélange d'éléments typiques d'une écriture humaine (spontanéité, subjectivité, détails concrets) et de caractéristiques pouvant être imitées par une intelligence artificielle (rythme parfois inégal, enchaînement logique des idées). La prévisibilité globale reste modérée.",high,"Qu'est-ce qui rend votre métier indispensable ?
+Je me suis dis que cela pourrait être intéressant Pour ma part je suis agriculteur donc sans mon métier personne ne mange, pour être précis je suis chevrier avec des chèvres en pâture donc adieu les petits fromages de chèvres et fini les ballades puisque que sans leur action le territoire s'ensauvagerait et il faudrait y aller avec une machette.",,
+2026-01-19T20:40:01.745Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,6,https://www.reddit.com/r/france/comments/u3lgkb/questce_qui_rend_votre_m%C3%A9tier_indispensable/,User + AI,gemma3,false,0.6,Yes,59065,refuse,NO,,,,,"Qu'est-ce qui rend votre métier indispensable ?
+Je me suis dis que cela pourrait être intéressant Pour ma part je suis agriculteur donc sans mon métier personne ne mange, pour être précis je suis chevrier avec des chèvres en pâture donc adieu les petits fromages de chèvres et fini les ballades puisque que sans leur action le territoire s'ensauvagerait et il faudrait y aller avec une machette.",,
+2026-01-19T20:41:42.195Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,7,https://www.reddit.com/r/france/comments/tw35nv/avis_pour_robot_cuiseur/,User + AI,gemma3,true,,,,,,,,,,,,
+2026-01-19T20:41:43.753Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,7,https://www.reddit.com/r/france/comments/tw35nv/avis_pour_robot_cuiseur/,User + AI,gemma3,true,,,,,,,,,,"Je crois que tu parles du Monsieur Cuisine de Lidl ? J'avais un peu peur aussi au début, vu qu'ils ont souvent des trucs un peu… bof, mais je me suis lancé en fait. Je l'ai trouvé d'occase, vraiment pas cher, et il était en super état.
+
+Je l'utilise pas mal, pour faire des soupes, des ragoûts, des trucs comme ça. C'est vraiment un gain de temps dingue, surtout quand on bosse. Et il a déjà quelques années, je l'ai depuis un moment et il tourne toujours nickel.
+
+Franchement, pour le prix, je regrette pas du tout. Après, c'est clair que c'est pas un Thermomix, mais ça fait largement le job pour moi !",,
+2026-01-19T20:41:43.763Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,7,https://www.reddit.com/r/france/comments/tw35nv/avis_pour_robot_cuiseur/,User + AI,gemma3,true,,,,,,0.2,"**Variété et naturel de l’écriture :** Le texte adopte un style conversationnel et informel, avec des phrases de longueurs variables et un rythme assez rapide. L'utilisation de répétitions, d'expressions familières (""dingue"", ""bof"", ""nickel"") et d'hésitations (""euh"", implicites) renforce l'impression de spontanéité. La structure est peu soignée, avec des phrases parfois incomplètes et des transitions abruptes.
+
+**Prévisibilité du langage :** Le vocabulaire est courant et accessible, sans recherche particulière. Les idées exprimées sont typiques d'un avis sur un produit, et suivent une progression logique (peur initiale, essai, satisfaction). L'utilisation de comparaisons (“Thermomix”) est classique dans ce type de témoignage.
+
+**Présence d’une voix humaine :** Le texte transmet une opinion personnelle claire et nuancée, avec des références à un vécu précis (achat d'occasion, utilisation quotidienne, contexte professionnel). La personne exprime ses doutes initiaux, puis son enthousiasme, de manière authentique et relatable.","Le texte présente de forts indices d'une écriture humaine, notamment par son style conversationnel, ses expressions familières et la mention d'un vécu personnel.",medium,"Je crois que tu parles du Monsieur Cuisine de Lidl ? J'avais un peu peur aussi au début, vu qu'ils ont souvent des trucs un peu… bof, mais je me suis lancé en fait. Je l'ai trouvé d'occase, vraiment pas cher, et il était en super état.
+
+Je l'utilise pas mal, pour faire des soupes, des ragoûts, des trucs comme ça. C'est vraiment un gain de temps dingue, surtout quand on bosse. Et il a déjà quelques années, je l'ai depuis un moment et il tourne toujours nickel.
+
+Franchement, pour le prix, je regrette pas du tout. Après, c'est clair que c'est pas un Thermomix, mais ça fait largement le job pour moi !",,
+2026-01-19T20:42:40.663Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,7,https://www.reddit.com/r/france/comments/tw35nv/avis_pour_robot_cuiseur/,User + AI,gemma3,true,0.7,No,56864,accept,NO,,,,,"Je crois que tu parles du Monsieur Cuisine de Lidl ? J'avais un peu peur aussi au début, vu qu'ils ont souvent des trucs un peu… bof, mais je me suis lancé en fait. Je l'ai trouvé d'occase, vraiment pas cher, et il était en super état.
+
+Je l'utilise pas mal, pour faire des soupes, des ragoûts, des trucs comme ça. C'est vraiment un gain de temps dingue, surtout quand on bosse. Et il a déjà quelques années, je l'ai depuis un moment et il tourne toujours nickel.
+
+Franchement, pour le prix, je regrette pas du tout. Après, c'est clair que c'est pas un Thermomix, mais ça fait largement le job pour moi !",,
+2026-01-19T20:45:08.610Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,8,https://www.reddit.com/r/france/comments/swj2pu/jai_trouv%C3%A9_du_roquefort_soci%C3%A9t%C3%A9_aux_usa_et_il_y_a/,User + AI,gemma3,true,,,,,,,,,,"Roquefort Société qui effraie les US ? 😂 Trop bien ! On dirait qu'ils ont peur de devenir des râleurs !
+
+La moutarde Maille, c'est du vol ! Une version fade et sans âme, c'est du camembert en plastique 😤
+
+Bravo pour le ""charcuterie"" à l'étranger, faut défendre nos traditions !",,
+2026-01-19T20:45:08.618Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,8,https://www.reddit.com/r/france/comments/swj2pu/jai_trouv%C3%A9_du_roquefort_soci%C3%A9t%C3%A9_aux_usa_et_il_y_a/,User + AI,gemma3,true,,,,,,0.1,"**Variété et naturel de l’écriture :** Le texte est très court et composé de phrases simples, voire télégraphiques. Il alterne entre exclamations, interrogations rhétoriques et affirmations directes, créant un rythme vif et discontinu. L’utilisation d’emojis et de termes familiers (“trop bien”, “râleurs”) renforce l’impression de spontanéité.
+
+**Prévisibilité du langage :** Le vocabulaire est courant et les expressions sont largement répandues. Les comparaisons sont directes et imagées (“camembert en plastique”), mais peu originales. Le texte utilise des codes du commentaire en ligne : humour, exagération, opinions tranchées.
+
+**Présence d’une voix humaine :** Le texte exprime clairement des émotions (amusement, indignation) et un attachement aux traditions françaises. Le ton est subjectif, personnel et engagé, avec une forte présence de l’auteur.","Le texte présente de très forts indices d’une écriture humaine, notamment par son ton émotionnel, sa spontanéité, son humour et son engagement personnel. Le style informel et l’utilisation d’emojis confirment cette impression.",low,"Roquefort Société qui effraie les US ? 😂 Trop bien ! On dirait qu'ils ont peur de devenir des râleurs !
+
+La moutarde Maille, c'est du vol ! Une version fade et sans âme, c'est du camembert en plastique 😤
+
+Bravo pour le ""charcuterie"" à l'étranger, faut défendre nos traditions !",,
+2026-01-19T20:45:08.698Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,8,https://www.reddit.com/r/france/comments/swj2pu/jai_trouv%C3%A9_du_roquefort_soci%C3%A9t%C3%A9_aux_usa_et_il_y_a/,User + AI,gemma3,true,,,,,,,,,,,,
+2026-01-19T20:45:29.503Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,8,https://www.reddit.com/r/france/comments/swj2pu/jai_trouv%C3%A9_du_roquefort_soci%C3%A9t%C3%A9_aux_usa_et_il_y_a/,User + AI,gemma3,true,1,Yes,20852,refuse,NO,,,,,"Roquefort Société qui effraie les US ? 😂 Trop bien ! On dirait qu'ils ont peur de devenir des râleurs !
+
+La moutarde Maille, c'est du vol ! Une version fade et sans âme, c'est du camembert en plastique 😤
+
+Bravo pour le ""charcuterie"" à l'étranger, faut défendre nos traditions !",,
+2026-01-19T20:46:01.605Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,9,https://x.com/thibaultbrock/status/1226080474289844224,User + AI,gemma3,false,,,,,,,,,,,,
+2026-01-19T20:46:01.787Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,9,https://x.com/thibaultbrock/status/1226080474289844224,User + AI,gemma3,false,,,,,,,,,,"Le vraie richesse, c'est pas l'argent.
+
+La vraie richesse, c'est d'avoir sa grand-mère de 94 ans au téléphone qui te dit : ""il y a un film sur le hérisson bleu que je t'avais offert pour ta SEGA quand tu étais petit. J'peux pas venir avec toi mais il faut que tu ailles le voir""",,
+2026-01-19T20:46:01.797Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,9,https://x.com/thibaultbrock/status/1226080474289844224,User + AI,gemma3,false,,,,,,0.2,"**Variété et naturel de l’écriture :** Le texte se compose de phrases courtes et d'un long paragraphe reprenant une conversation. L'alternance est marquée, le début étant très direct et le reste plus narratif. Le rythme est donc assez haché, puis se fluidifie.
+
+**Prévisibilité du langage :** Les premières phrases sont des constats généraux, tandis que la suite est très spécifique et anecdotique. Le récit de la conversation contient des tournures orales typiques (""J'peux pas"") et un langage familier. Cette spécificité rend le texte moins prévisible.
+
+**Présence d’une voix humaine :** Le texte dégage une forte subjectivité et une émotion palpable à travers le souvenir évoqué. La référence précise à la grand-mère, au film et à la SEGA ancre le texte dans un vécu personnel et authentique. L'utilisation du langage courant renforce l'impression d'une expression spontanée.","Le texte présente de forts indices d'une écriture humaine, notamment par la narration d'une anecdote personnelle, l'utilisation d'un langage familier et l'expression d'émotions.",medium,"Le vraie richesse, c'est pas l'argent.
+
+La vraie richesse, c'est d'avoir sa grand-mère de 94 ans au téléphone qui te dit : ""il y a un film sur le hérisson bleu que je t'avais offert pour ta SEGA quand tu étais petit. J'peux pas venir avec toi mais il faut que tu ailles le voir""",,
+2026-01-19T20:47:02.624Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,9,https://x.com/thibaultbrock/status/1226080474289844224,User + AI,gemma3,false,0.5,Yes,35616,refuse,NO,,,,,"Le vraie richesse, c'est pas l'argent.
+
+La vraie richesse, c'est d'avoir sa grand-mère de 94 ans au téléphone qui te dit : ""il y a un film sur le hérisson bleu que je t'avais offert pour ta SEGA quand tu étais petit. J'peux pas venir avec toi mais il faut que tu ailles le voir""",,
+2026-01-19T20:49:42.275Z,manual_text_edit,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,10,https://www.reddit.com/r/Lyon/comments/tgzdyz/le_30_mars_2022_la_ville_de_lyon_passe_%C3%A0_30kmh/,User + AI,gemma3,true,,,,,,,,,,,,
+2026-01-19T20:49:42.433Z,evaluate_clicked,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,10,https://www.reddit.com/r/Lyon/comments/tgzdyz/le_30_mars_2022_la_ville_de_lyon_passe_%C3%A0_30kmh/,User + AI,gemma3,true,,,,,,,,,,"Franchement, je suis bien d'accord avec cette grosse mesure des 30 km/h. Y'en a marre de voir les mecs foncer en ville, c'est devenu n'importe quoi.
+
+Entre ceux qui roulent à donf, ceux qui grillent les feux rouges et les autres qui sont scotchés à leur téléphone… Ha oui, j'ai vu un chauffard il y a pas longtemps, limite il a failli percuter une mamie qui traversait.
+
+Bon, ceux qui respectent les limitations, ça les concerne pas hein, mais faut bien faire quelque chose non ? C'est peut-être pas la panacée, mais si ça peut éviter des drames…",,
+2026-01-19T20:49:42.440Z,evaluation_ended,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,10,https://www.reddit.com/r/Lyon/comments/tgzdyz/le_30_mars_2022_la_ville_de_lyon_passe_%C3%A0_30kmh/,User + AI,gemma3,true,,,,,,0.2,"**Variété et naturel de l’écriture :** Le texte utilise un style très oral, avec des phrases courtes et un vocabulaire familier. L'alternance entre phrases descriptives et exclamatives crée un rythme rapide et spontané. L'utilisation de contractions (""Y'en a"", ""c'est"") renforce l'impression de langage parlé.
+
+**Prévisibilité du langage :** Le texte aborde un sujet courant (la vitesse en ville) avec des arguments et des expressions typiques du débat. Les tournures de phrase sont simples et peu originales. Le vocabulaire est courant et peu recherché.
+
+**Présence d’une voix humaine :** Le texte exprime clairement un avis personnel, avec des émotions (agacement, inquiétude) et des exemples concrets (le chauffard qui a failli percuter une mamie). Le style informel et l’utilisation d’expressions populaires donnent l’impression d’une personne réelle qui s’exprime.","Le texte présente de forts indices d'une écriture humaine, en particulier par son ton direct, son vocabulaire familier et l'expression d'un point de vue subjectif avec des exemples personnels.",medium,"Franchement, je suis bien d'accord avec cette grosse mesure des 30 km/h. Y'en a marre de voir les mecs foncer en ville, c'est devenu n'importe quoi.
+
+Entre ceux qui roulent à donf, ceux qui grillent les feux rouges et les autres qui sont scotchés à leur téléphone… Ha oui, j'ai vu un chauffard il y a pas longtemps, limite il a failli percuter une mamie qui traversait.
+
+Bon, ceux qui respectent les limitations, ça les concerne pas hein, mais faut bien faire quelque chose non ? C'est peut-être pas la panacée, mais si ça peut éviter des drames…",,
+2026-01-19T20:50:24.846Z,decision,fbc9a83a-6521-4fde-b709-b9a61f23ad5e,10,https://www.reddit.com/r/Lyon/comments/tgzdyz/le_30_mars_2022_la_ville_de_lyon_passe_%C3%A0_30kmh/,User + AI,gemma3,true,0.8,Yes,42371,refuse,NO,,,,,"Franchement, je suis bien d'accord avec cette grosse mesure des 30 km/h. Y'en a marre de voir les mecs foncer en ville, c'est devenu n'importe quoi.
+
+Entre ceux qui roulent à donf, ceux qui grillent les feux rouges et les autres qui sont scotchés à leur téléphone… Ha oui, j'ai vu un chauffard il y a pas longtemps, limite il a failli percuter une mamie qui traversait.
+
+Bon, ceux qui respectent les limitations, ça les concerne pas hein, mais faut bien faire quelque chose non ? C'est peut-être pas la panacée, mais si ça peut éviter des drames…",,
